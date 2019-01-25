@@ -3,7 +3,7 @@ templateKey: article-page
 title: Lorem Ipsum Dolor Situm
 slug: lorem-ipsum-dolor-situm
 date: 2018-03-29T03:55:49.370Z
-cover: /img/meeting-space.png
+cover: /img/products-grid3.jpg
 tags:
   - lorem
   - ipsum
